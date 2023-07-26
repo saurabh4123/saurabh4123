@@ -30,9 +30,9 @@ Here are some of the projects that I have worked on:
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/saurabh4123/project1/pull/1) in [saurabh4123/project1](https://github.com/saurabh4123/project1)
-2. 💪 Opened PR [#2](https://github.com/saurabh4123/project2/pull/2) in [saurabh4123/project2](https://github.com/saurabh4123/project2)
-3. 🗣 Commented on [#3](https://github.com/saurabh4123/project3/issues/3) in [saurabh4123/project3](https://github.com/saurabh4123/project3)
+1. 🎉 Merged PR [#1](https://github.com/saurabh4123/HealthEase/pull/1) in [saurabh4123/project1](https://github.com/saurabh4123/HealthEase)
+2. 💪 Opened PR [#2](https://github.com/saurabh4123/HealthEase/pull/2) in [saurabh4123/project2](https://github.com/saurabh4123/HealthEase)
+3. 🗣 Commented on [#3](https://github.com/saurabh4123/HealthEase/issues/3) in [saurabh4123/project3](https://github.com/saurabh4123/HealthEase)
 <!--END_SECTION:activity-->
 
 ## Contact Me
