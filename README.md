@@ -21,7 +21,7 @@ Here are some of the projects that I have worked on:
 
 - [Health-Ease](https://github.com/saurabh4123/HealthEase)
 - [Teacher Activity Management Backend](https://github.com/saurabh4123/Teacher-Activity-Management-System-backend)
-- [Teacher Activity Management Backend](https://github.com/saurabh4123/Teacher-Activity-Management-System-frontend)
+- [Teacher Activity Management Frontend](https://github.com/saurabh4123/Teacher-Activity-Management-System-frontend)
 
 ## GitHub Stats
 
